@@ -14,10 +14,28 @@ If you see areas for improvement, pull requests are welcome!
 
 This is a top-down view of systems theory and its underlying concepts.
 
- - [Axioms of General System Theory](#axiomsofgeneralsystemtheory)
+ - [Axioms of General System Theory](###axiomsofgeneralsystemtheory)
  - General Systems Theory is made of up three underlying aspects:
     - Systems Science
     - Systems Technology
     - Systems Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Axioms of General System Theory
